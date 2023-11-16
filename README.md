@@ -1,2 +1,2 @@
-# webdevaueb
+# WEBDESIGN
 Web development course aueb 
